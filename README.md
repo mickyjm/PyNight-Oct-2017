@@ -27,6 +27,6 @@ Participated in PyNight on Oct 13, 2017. It was my first time using and learning
 
 ## Corned Python Hash
 
-<img src="pictures/cornedpythonhash.png" / >
+<img src="pictures/cornedpythonhash.png" />
 
 ### Flag: 982
